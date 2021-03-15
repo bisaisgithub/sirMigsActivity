@@ -16,5 +16,4 @@
 
 <div class="form-outline">
   <input type="text" id="result" class="form-control" />
-  <label class="form-label" for="form1"></label>
 </div>
